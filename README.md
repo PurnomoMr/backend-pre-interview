@@ -79,13 +79,22 @@ This repo already contains the configuration file for ESLint.
 > *PS.* ES6 is preferred.
 > *PS2.* Don't use **NPM** for package manager, use [YARN][yarnSite] instead
 
+##### How to run the program
+----------------------
+> Clone this project
+> Open the project and Run Yarn add package.json by your terminal
+> run the program with this syntac node server.js sudoku.txt
+> *This program will read in sudoku.txt file, and you can check the file if you want change the puzzle.
+> the game already started. Have fun!
+----------------------
+
 #### Python
 
 This repo does not contains any configuration file for Python linting.
 
 ## Authors
 
-* **Linnovs** - *Initial work* - [linnovs](https://github.com/linnovs)
+* **Purnomo** - *Initial work* - [purnomo](https://github.com/PurnomoMr/)
 
 [forkFromGithub]:https://github.com/en-trak/backend-pre-interview/fork
 [createAccount]:https://github.com/join
